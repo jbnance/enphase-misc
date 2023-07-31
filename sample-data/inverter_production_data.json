@@ -1,0 +1,240 @@
+[
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593704,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 321
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593705,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 313
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593927,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 315
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593640,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 315
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593968,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 309
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593706,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 311
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593904,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 311
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593713,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690594067,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593971,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 312
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593657,
+        "devType": 1,
+        "lastReportWatts": 1,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593985,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 314
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593987,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 306
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593988,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593989,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593789,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 311
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593871,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593568,
+        "devType": 1,
+        "lastReportWatts": 1,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593708,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593827,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593754,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 307
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593831,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 310
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593761,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 314
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593840,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 309
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593991,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 311
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593910,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 304
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593757,
+        "devType": 1,
+        "lastReportWatts": 1,
+        "maxReportWatts": 309
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593571,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593994,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 305
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593648,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 311
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593649,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 305
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593895,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 309
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690594000,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 308
+    },
+    {
+        "serialNumber": "REDACTED-PANEL-SERIAL",
+        "lastReportDate": 1690593931,
+        "devType": 1,
+        "lastReportWatts": 0,
+        "maxReportWatts": 307
+    }
+]

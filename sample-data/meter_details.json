@@ -1,0 +1,20 @@
+[
+    {
+      "eid": REDACTED-9-DIGIT-INTEGER-A,
+      "state": "enabled",
+      "measurementType": "production",
+      "phaseMode": "split",
+      "phaseCount": 2,
+      "meteringStatus": "normal",
+      "statusFlags": []
+    },
+    {
+      "eid": REDACTED-9-DIGIT-INTEGER-B,
+      "state": "enabled",
+      "measurementType": "net-consumption",
+      "phaseMode": "split",
+      "phaseCount": 2,
+      "meteringStatus": "normal",
+      "statusFlags": []
+    }
+]
